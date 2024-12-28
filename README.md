@@ -2,6 +2,10 @@
 
 Thist is my jorney to learn Python studying from [Scientific Computing with Python - FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python).
 
+## Resume
+
+At the end of each module, I will do a new project to practice what I have learned.
+
 ## Environment
 
 - Python >= 3.12.4
