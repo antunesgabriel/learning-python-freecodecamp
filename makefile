@@ -2,7 +2,7 @@ setup:
 	python3 -m venv .venv
 
 activate:
-	source .venv/bin/activate
+	source ./.venv/bin/activate
 
 generate-requirements:
 	pip freeze > requirements.txt
